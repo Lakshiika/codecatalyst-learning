@@ -1,1 +1,1 @@
-This is sample folder
+this is a sample text
